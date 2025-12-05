@@ -5,11 +5,11 @@
 
 ## 👥 Team Members
 
-| Name | NUID | 
+| Name | Github | 
 |------|------| 
-Prasham Nagda | 002539021 |
-| Neerajaa Kadam | 002509421 |
-| Tanya Bansal | 002020208 |
+Prasham Nagda | (https://github.com/Prasham09) |
+| Neerajaa Kadam | (https://github.com/kadamneerajaa) |
+| Tanya Bansal | (https://github.com/tanya-bansal28) |
 
 ---
 
